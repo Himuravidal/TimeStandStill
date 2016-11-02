@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Time Stand Still</string>
+    <string name="description">
+        Esta aplicación sirve para calcular tú Edad en base a tu año de nacimiento y el año actual.
+    </string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

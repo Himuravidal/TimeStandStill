@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/content_main">
+
+    <TableRow>
+
+        <TextView
+            style="@style/CustomTable.row"
+            android:text="Ingresa tu año de nacimiento" />
+
+        <TextView
+            style="@style/CustomTable.row"
+            android:text=" ej: 1985" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            style="@style/CustomTable.row"
+            android:text="ingresa el año actual" />
+
+        <TextView
+            style="@style/CustomTable.row"
+            android:text="Ej: 2016" />
+    </TableRow>
+
+
+    <TableRow>
+
+        <TextView
+            style="@style/CustomTable.row"
+            android:text="preciona calcular y listo" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            style="@style/CustomTable.Header"
+            android:text="Press Star to start" />
+
+    </TableRow>
+</merge>
